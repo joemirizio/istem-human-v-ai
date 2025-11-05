@@ -1,0 +1,32 @@
+[
+    {
+        "round": 1,
+        "note": "Patient is a 14-year-old male presenting with sore throat and mild fever. No allergies reported.\nThe plan includes hydration and monitoring symptoms.\nMedication prescribed is listed at the end of the visit summary: amoxicillin for 7 days.",
+        "question": "What medication was prescribed?",
+        "answer": "Amoxicillin"
+    },
+    {
+        "round": 2,
+        "note": "Patient is a 45-year-old female with a history of hypertension. Complains of dizziness and fatigue.\nBlood pressure today: 150/90 mmHg. Current medications include lisinopril.\nThe provider recommends scheduling a follow-up in two weeks and adjusting lifestyle habits. The blood pressure reading is noted in the first paragraph but confirmed again in the plan section.",
+        "question": "What is the patient\u2019s blood pressure today?",
+        "answer": "150/90 mmHg"
+    },
+    {
+        "round": 3,
+        "note": "Patient is a 32-year-old male presenting for an annual check-up. Reports occasional headaches and fatigue. Past medical history includes asthma.\nMedications: albuterol inhaler. Vital signs: BP 120/80 mmHg, HR 72 bpm, Temp 98.6\u00b0F.\nLab results show cholesterol 190 mg/dL and glucose 95 mg/dL. The provider notes that cholesterol is slightly elevated and recommends exercise and hydration. The cholesterol value is mentioned only in the lab section near the end.",
+        "question": "What is the patient\u2019s cholesterol level?",
+        "answer": "190 mg/dL"
+    },
+    {
+        "round": 4,
+        "note": "Visit 1: Patient started lisinopril for hypertension. Reports mild cough after two weeks. Blood pressure improved to 130/85 mmHg.\nVisit 2: Complains of persistent cough. The provider reviews previous medications and decides to discontinue one drug.\nA new medication, hydrochlorothiazide, is started. The discontinued medication is mentioned only in the second paragraph.",
+        "question": "Which medication was discontinued during the second visit?",
+        "answer": "Lisinopril"
+    },
+    {
+        "round": 5,
+        "note": "Patient is a 50-year-old female who recently moved to a new city. Presents for routine check-up. Works as a teacher and enjoys hiking. Past medical history: migraines.\nPatient reports occasional headaches but no new symptoms. Denies chest pain or shortness of breath. Physical exam normal. Vital signs: BP 118/76 mmHg, HR 70 bpm. Labs: normal.\nFollow-up scheduled in six months. Patient advised to maintain a headache diary and return sooner if symptoms worsen. The provider also notes her occupation in the social history section: teacher.",
+        "question": "What is the patient\u2019s occupation?",
+        "answer": "Teacher"
+    }
+]

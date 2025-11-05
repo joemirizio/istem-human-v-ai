@@ -1,0 +1,14 @@
+[project]
+name = "human-v-machine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mysqlclient>=2.2.7",
+    "ollama>=0.6.0",
+    "openai>=2.6.1",
+    "plotly>=6.4.0",
+    "sqlalchemy>=2.0.44",
+    "streamlit[charts]>=1.50.0",
+]

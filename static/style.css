@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+h1 span {
+    color: hsl(0, 0%, 60%);
+}
+
+#play-circle-start-experiment {
+    text-align: center;
+    margin: 1em 0;
+}
+
+.st-key-results-home {
+    align-self: end;
+}
+
+.stElementContainer .stMarkdown h4 {
+    color: hsl(0, 0%, 60%);
+}
+
+.note {
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 1.3em;
+}
+
+.question {
+    font-size: 1.3em;
+}
+
+.st-key-start_human button,
+.st-key-start_ai button {
+    height: 5em;
+}

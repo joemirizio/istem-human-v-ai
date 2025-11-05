@@ -1,0 +1,32 @@
+[
+  {
+    "round": 1,
+    "note": "Patient is a 10-year-old boy who came in with a sore throat and mild fever. No cough or rash. He was given acetaminophen and advised rest. The nurse noted that his temperature was 100.4\u00b0F and his throat appeared slightly red.",
+    "question": "What medicine was given?",
+    "answer": "Acetaminophen"
+  },
+  {
+    "round": 2,
+    "note": "Patient is a 12-year-old girl complaining of stomach pain after eating. She reports nausea but no vomiting. She had pizza and ice cream before the symptoms started. Doctor suspects mild food intolerance and recommends avoiding dairy for a week. The patient was also told to keep a food diary and return if symptoms persist.",
+    "question": "What should the patient avoid?",
+    "answer": "Dairy"
+  },
+  {
+    "round": 3,
+    "note": "Patient is a 13-year-old boy who twisted his ankle during soccer practice. Swelling and bruising observed. X-ray shows no fracture. He was advised to ice the ankle, elevate it, and avoid sports for one week. The doctor also recommended using crutches if walking becomes painful and prescribed ibuprofen for pain relief.",
+    "question": "What painkiller was prescribed?",
+    "answer": "Ibuprofen"
+  },
+  {
+    "round": 4,
+    "note": "Patient is a 14-year-old girl with a history of seasonal allergies. She visited the clinic with itchy eyes, sneezing, and mild congestion. She had been spending time outside during spring break. She was prescribed antihistamines and told to stay indoors during high pollen days. The doctor also suggested using a HEPA air filter at home and rinsing her eyes with saline solution. Follow-up scheduled in two weeks to assess response to treatment.",
+    "question": "What medicine was prescribed?",
+    "answer": "Antihistamines"
+  },
+  {
+    "round": 5,
+    "note": "Visit 1: Patient is a 15-year-old boy who came in with a persistent cough and fatigue. No fever. He had recently recovered from a cold. Doctor suspects viral infection and recommends fluids, rest, and monitoring symptoms. No medications prescribed at this time.\nVisit 2 (1 week later): Patient reports improved energy but still has a dry cough, especially at night. Doctor advises continuing rest and adds cough syrup to treatment. Patient was also told to use a humidifier and avoid cold drinks.\nVisit 3 (2 weeks later): Patient reports full recovery. No symptoms. Cleared to return to school and resume normal activities. Doctor reminded patient to stay hydrated and return if symptoms reappear.",
+    "question": "What was device the patient told to use?",
+    "answer": "Humidifier"
+  }
+]
